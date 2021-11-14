@@ -1,4 +1,4 @@
-THIS IS MY another COMMIT
+THIS IS again a COMMIT
 
 and here we go with commit number #2
 
